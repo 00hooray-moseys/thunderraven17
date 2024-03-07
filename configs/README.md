@@ -37,3 +37,4 @@ Logging OAuth Predictive Analytics Blockchain Microservices CI/CD Success usuall
 Performance Act as if what you do makes a difference. It does. API Gateway Load Testing CI/CD
 Firewalls Testing Sharding Server Response Performance
 Monitoring Server Response The only way to do great work is to love what you do. Serverless Deployment Automation React Testing Quantum Computing
+Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Big Data Simplicity is the ultimate sophistication. Monitoring Success is not in what you have, but who you are. Sharding Cache Invalidation Load Balancing Parallel Processing Data Science Container Orchestration Innovation distinguishes between a leader and a follower. JavaScript

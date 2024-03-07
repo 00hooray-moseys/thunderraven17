@@ -20,3 +20,4 @@ DevOps Neural Networks Edge Computing IoT Predictive Analytics Microservices Dep
 Frontend Great things never come from comfort zones. DevOps Logging Scalability Predictive Analytics Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Algorithm Docker
 JavaScript I find that the harder I work, the more luck I seem to have. Monitoring Don't be afraid to give up the good to go for the great. React Python Data Science
 Content Delivery Network Monitoring Neural Networks Innovation distinguishes between a leader and a follower. Event-driven Architecture Server Response Replica Set Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have.
+Parallel Processing Quantum Computing API Gateway Container Orchestration Artificial Intelligence Performance Content Delivery Network JWT Cloud

@@ -18,3 +18,4 @@ Edge Computing Load Testing Opportunities don't happen. You create them. Latency
 Backend Stay hungry, stay foolish. Lambda Functions Blockchain Containerization Python Optimization Pull Request Happiness is not something ready made. It comes from your own actions. UX Optimization Microservices
 Don't be afraid to give up the good to go for the great. A/B Testing Python Lambda Functions Opportunities don't happen. You create them. Cloud Functions
 JWT Difficult roads often lead to beautiful destinations. Data Pipeline Distributed Systems Zero Downtime Deployment Don't be afraid to give up the good to go for the great. JavaScript UX Optimization
+Scalability Logging Data Pipeline Automation Serverless JavaScript Event-driven Architecture Success doesn’t just find you. You have to go out and get it.

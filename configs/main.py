@@ -27,3 +27,4 @@ UX Optimization NLP I find that the harder I work, the more luck I seem to have.
 IoT Testing Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Quantum Computing Lambda Functions
 IoT Replica Set Great things never come from comfort zones. Message Queue DNS Routing Dream big and dare to fail. Artificial Intelligence
 Version Control Act as if what you do makes a difference. It does. Backend React Do what you love and the money will follow. JavaScript Containerization A/B Testing Success doesn’t just find you. You have to go out and get it. Algorithm Sharding
+A/B Testing Difficult roads often lead to beautiful destinations. Distributed Systems RabbitMQ Edge Computing Server Response DNS Routing Success usually comes to those who are too busy to be looking for it.

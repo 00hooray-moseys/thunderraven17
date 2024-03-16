@@ -18,3 +18,4 @@ UX Optimization Data Pipeline WebSockets Work hard in silence, let your success 
 Kubernetes React Quantum Computing Firewalls DNS Routing Don't be afraid to give up the good to go for the great. Docker DevOps GraphQL
 Virtual Machines To be the best, you must be able to handle the worst. Database Indexing Pull Request Cache Invalidation Backend Testing Framework Performance Simplicity is the ultimate sophistication. Python
 Zero Downtime Deployment Microservices Lambda Functions Machine Learning Simplicity is the ultimate sophistication. Docker Testing React
+RabbitMQ Frontend Cloud Functions Security Python WebSockets

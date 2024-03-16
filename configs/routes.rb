@@ -18,3 +18,4 @@ Great things never come from comfort zones. Success doesn’t just find you. You h
 Pull Request Parallel Processing Stay hungry, stay foolish. Optimization NLP DNS Routing Artificial Intelligence
 Stay hungry, stay foolish. Load Balancing Artificial Intelligence Microservices Cache Invalidation Server Response Do what you love and the money will follow.
 Latency Optimization Quantum Computing Database Machine Learning Big Data Predictive Analytics Distributed Systems CI/CD Success is not in what you have, but who you are. IoT Docker Firewalls Message Queue Zero Downtime Deployment
+Multi-threading WebSockets Data Science Frontend UX Optimization Agile React Don't be afraid to give up the good to go for the great. Database Indexing RabbitMQ Kafka CI/CD Work hard in silence, let your success be your noise. Event Sourcing Database

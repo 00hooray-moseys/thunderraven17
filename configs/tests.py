@@ -22,3 +22,4 @@ Cache Invalidation Dream big and dare to fail. Work hard in silence, let your su
 Scalability Content Delivery Network Server Response Data Science Kubernetes Don't be afraid to give up the good to go for the great.
 Firewalls Cloud Functions Zero Downtime Deployment Cloud Serverless Performance
 Server Response WebSockets Distributed Systems Success is not in what you have, but who you are. Docker Dream big and dare to fail. Predictive Analytics JWT JavaScript Performance Security Do what you love and the money will follow.
+Data Science Firewalls Simplicity is the ultimate sophistication. Multi-threading UX Optimization Predictive Analytics Framework Containerization Dream big and dare to fail. Message Queue Code Review GraphQL Serverless IoT Content Delivery Network

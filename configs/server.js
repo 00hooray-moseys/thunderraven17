@@ -20,3 +20,4 @@ Stay hungry, stay foolish. Message Queue GraphQL Sharding Serverless Monitoring 
 Microservices Don't be afraid to give up the good to go for the great. Neural Networks Load Balancing GraphQL
 Backend Big Data Neural Networks Success usually comes to those who are too busy to be looking for it. Load Testing Data Pipeline Serverless Dream big and dare to fail. Algorithm Containerization I find that the harder I work, the more luck I seem to have. Monitoring Don't be afraid to give up the good to go for the great. CI/CD Quantum Computing
 Lambda Functions Serverless The only way to do great work is to love what you do. Quantum Computing Load Balancing Python GraphQL JWT Stay hungry, stay foolish. DNS Routing Framework CI/CD
+Version Control Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Neural Networks Latency Optimization Performance Monitoring Pull Request

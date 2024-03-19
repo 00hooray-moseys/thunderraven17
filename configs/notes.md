@@ -20,3 +20,4 @@ Big Data Replica Set Load Testing NLP Firewalls JavaScript Containerization Cach
 A/B Testing Python Don't be afraid to give up the good to go for the great. Version Control CI/CD NLP Docker Lambda Functions WebSockets API Gateway
 API Gateway Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Framework Microservices
 Cache Invalidation Great things never come from comfort zones. Work hard in silence, let your success be your noise. React DevOps UX Optimization Logging Database Security Data Science Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great.
+Cloud Server Response Pull Request I find that the harder I work, the more luck I seem to have. Testing Python OAuth Cloud Functions

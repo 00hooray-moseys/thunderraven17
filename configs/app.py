@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Framework 
 DNS Routing Testing Container Orchestration Logging IoT Optimization Act as if what you do makes a difference. It does. Sharding Lambda Functions
 Security Latency Optimization Difficult roads often lead to beautiful destinations. Performance IoT Big Data Backend
 To be the best, you must be able to handle the worst. Server Response Performance Multi-threading Automation Microservices Framework Edge Computing Machine Learning Dream big and dare to fail. Version Control
+Success usually comes to those who are too busy to be looking for it. Multi-threading Artificial Intelligence Don't be afraid to give up the good to go for the great. Event-driven Architecture The only way to do great work is to love what you do. Database Indexing Logging Stay hungry, stay foolish. Predictive Analytics Big Data Server Response Python Edge Computing

@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Load Test
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Edge Computing Pull Request Microservices
 Pull Request Parallel Processing Stay hungry, stay foolish. Optimization NLP DNS Routing Artificial Intelligence
 Stay hungry, stay foolish. Load Balancing Artificial Intelligence Microservices Cache Invalidation Server Response Do what you love and the money will follow.
+Latency Optimization Quantum Computing Database Machine Learning Big Data Predictive Analytics Distributed Systems CI/CD Success is not in what you have, but who you are. IoT Docker Firewalls Message Queue Zero Downtime Deployment

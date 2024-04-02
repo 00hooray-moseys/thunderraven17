@@ -27,3 +27,4 @@ The only way to do great work is to love what you do. Big Data Replica Set Algor
 I find that the harder I work, the more luck I seem to have. Load Testing If you can dream it, you can do it. Opportunities don't happen. You create them. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. DevOps Content Delivery Network
 Scalability Performance Simplicity is the ultimate sophistication. Cache Invalidation Security
 Database Content Delivery Network Testing Code Review Innovation distinguishes between a leader and a follower. Latency Optimization DevOps Serverless Work hard in silence, let your success be your noise. Multi-threading CI/CD I find that the harder I work, the more luck I seem to have.
+Lambda Functions React Opportunities don't happen. You create them. Framework Database Cloud Success usually comes to those who are too busy to be looking for it. Automation Frontend

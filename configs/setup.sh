@@ -20,3 +20,4 @@ Artificial Intelligence A/B Testing Data Pipeline Blockchain Zero Downtime Deplo
 UX Optimization Kafka DNS Routing Kubernetes Machine Learning Cache Invalidation
 DevOps Performance Load Balancing Quantum Computing Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Multi-threading Algorithm Act as if what you do makes a difference. It does. Data Pipeline Microservices Logging Monitoring Cloud Functions
 Deployment Logging Happiness is not something ready made. It comes from your own actions. Optimization Testing Do what you love and the money will follow. Success is not in what you have, but who you are. Cloud WebSockets
+Edge Computing Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. A/B Testing API Serverless Quantum Computing JavaScript Success is how high you bounce when you hit bottom. Latency Optimization

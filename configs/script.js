@@ -13,3 +13,4 @@ Backend Stay hungry, stay foolish. Blockchain API Docker Performance Kafka API G
 Innovation distinguishes between a leader and a follower. Load Balancing Dream big and dare to fail. Server Response React
 Blockchain Scalability Opportunities don't happen. You create them. NLP Multi-threading JWT DevOps Edge Computing
 Cache Invalidation Automation Load Balancing Server Response Machine Learning Act as if what you do makes a difference. It does. API Gateway Do what you love and the money will follow. Database Backend
+Serverless Pull Request Database Indexing Firewalls Virtual Machines Server Response Deployment Do what you love and the money will follow. API Gateway Security Success usually comes to those who are too busy to be looking for it.

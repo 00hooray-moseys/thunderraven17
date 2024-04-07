@@ -27,3 +27,4 @@ DNS Routing Event-driven Architecture If you can dream it, you can do it. Code R
 Do what you love and the money will follow. Testing Python Act as if what you do makes a difference. It does. React Event-driven Architecture Data Pipeline Happiness is not something ready made. It comes from your own actions. Microservices Work hard in silence, let your success be your noise.
 Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Multi-threading Security GraphQL Stay hungry, stay foolish. Latency Optimization Lambda Functions
 Framework Backend API Gateway Neural Networks Success usually comes to those who are too busy to be looking for it.
+DevOps Agile Optimization Sharding Don't be afraid to give up the good to go for the great. RabbitMQ Database JavaScript

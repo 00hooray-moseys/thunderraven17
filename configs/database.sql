@@ -14,3 +14,4 @@ GraphQL Neural Networks Kubernetes DevOps Container Orchestration Machine Learni
 Sharding Neural Networks Pull Request To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Latency Optimization DevOps
 Load Testing Virtual Machines Automation Dream big and dare to fail. WebSockets Opportunities don't happen. You create them. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Performance Database Indexing
 A/B Testing Pull Request Cloud The only way to do great work is to love what you do. Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Agile Database Indexing
+A/B Testing Performance If you can dream it, you can do it. Virtual Machines Happiness is not something ready made. It comes from your own actions. Agile Kubernetes Testing Latency Optimization

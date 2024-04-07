@@ -20,3 +20,4 @@ Frontend Dream big and dare to fail. Quantum Computing Don't be afraid to give u
 Database A/B Testing Data Science Success is not in what you have, but who you are. Code Review Testing OAuth Virtual Machines DNS Routing Dream big and dare to fail. Content Delivery Network Act as if what you do makes a difference. It does.
 Cache Invalidation Dream big and dare to fail. Work hard in silence, let your success be your noise. NLP RabbitMQ Agile The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Database Indexing A/B Testing
 Scalability Content Delivery Network Server Response Data Science Kubernetes Don't be afraid to give up the good to go for the great.
+Firewalls Cloud Functions Zero Downtime Deployment Cloud Serverless Performance

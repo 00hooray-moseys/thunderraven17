@@ -17,3 +17,4 @@ JavaScript CI/CD Neural Networks RabbitMQ Kafka Opportunities don't happen. You 
 UX Optimization Data Pipeline WebSockets Work hard in silence, let your success be your noise. Event-driven Architecture Stay hungry, stay foolish. Cache Invalidation Firewalls Virtual Machines Big Data To be the best, you must be able to handle the worst. Python Act as if what you do makes a difference. It does. Server Response Success doesn’t just find you. You have to go out and get it.
 Kubernetes React Quantum Computing Firewalls DNS Routing Don't be afraid to give up the good to go for the great. Docker DevOps GraphQL
 Virtual Machines To be the best, you must be able to handle the worst. Database Indexing Pull Request Cache Invalidation Backend Testing Framework Performance Simplicity is the ultimate sophistication. Python
+Zero Downtime Deployment Microservices Lambda Functions Machine Learning Simplicity is the ultimate sophistication. Docker Testing React

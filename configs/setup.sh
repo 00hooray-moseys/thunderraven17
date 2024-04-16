@@ -18,3 +18,4 @@ Algorithm Act as if what you do makes a difference. It does. Artificial Intellig
 Framework Cloud Kafka Testing If you can dream it, you can do it. Cache Invalidation Version Control Scalability Zero Downtime Deployment Big Data Quantum Computing
 Artificial Intelligence A/B Testing Data Pipeline Blockchain Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Security
 UX Optimization Kafka DNS Routing Kubernetes Machine Learning Cache Invalidation
+DevOps Performance Load Balancing Quantum Computing Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Multi-threading Algorithm Act as if what you do makes a difference. It does. Data Pipeline Microservices Logging Monitoring Cloud Functions

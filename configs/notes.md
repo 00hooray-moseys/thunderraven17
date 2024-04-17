@@ -18,3 +18,4 @@ Kafka Version Control NLP Monitoring Performance Cloud I find that the harder I 
 Scalability Cloud Functions Parallel Processing Virtual Machines CI/CD WebSockets Replica Set Multi-threading
 Big Data Replica Set Load Testing NLP Firewalls JavaScript Containerization Cache Invalidation
 A/B Testing Python Don't be afraid to give up the good to go for the great. Version Control CI/CD NLP Docker Lambda Functions WebSockets API Gateway
+API Gateway Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Framework Microservices

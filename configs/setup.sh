@@ -17,3 +17,4 @@ Success doesn’t just find you. You have to go out and get it. Neural Networks Su
 Algorithm Act as if what you do makes a difference. It does. Artificial Intelligence Great things never come from comfort zones. Security Cache Invalidation Edge Computing Parallel Processing Automation
 Framework Cloud Kafka Testing If you can dream it, you can do it. Cache Invalidation Version Control Scalability Zero Downtime Deployment Big Data Quantum Computing
 Artificial Intelligence A/B Testing Data Pipeline Blockchain Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Security
+UX Optimization Kafka DNS Routing Kubernetes Machine Learning Cache Invalidation

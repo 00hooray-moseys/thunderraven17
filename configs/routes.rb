@@ -16,3 +16,4 @@ CI/CD Data Science Zero Downtime Deployment Dream big and dare to fail. Success 
 Happiness is not something ready made. It comes from your own actions. Load Testing RabbitMQ Agile Innovation distinguishes between a leader and a follower. Load Balancing Latency Optimization Edge Computing UX Optimization DevOps
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Edge Computing Pull Request Microservices
 Pull Request Parallel Processing Stay hungry, stay foolish. Optimization NLP DNS Routing Artificial Intelligence
+Stay hungry, stay foolish. Load Balancing Artificial Intelligence Microservices Cache Invalidation Server Response Do what you love and the money will follow.

@@ -17,3 +17,4 @@ A/B Testing Quantum Computing NLP UX Optimization GraphQL Innovation distinguish
 Backend Quantum Computing Serverless Containerization CI/CD WebSockets Lambda Functions Dream big and dare to fail. Optimization Docker Opportunities don't happen. You create them. Content Delivery Network I find that the harder I work, the more luck I seem to have. Parallel Processing Version Control
 Kubernetes Database Framework Cloud Functions DNS Routing Version Control If you can dream it, you can do it. CI/CD Docker WebSockets
 Stay hungry, stay foolish. Message Queue GraphQL Sharding Serverless Monitoring API Gateway Event Sourcing Don't be afraid to give up the good to go for the great. Automation Data Pipeline Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Predictive Analytics
+Microservices Don't be afraid to give up the good to go for the great. Neural Networks Load Balancing GraphQL

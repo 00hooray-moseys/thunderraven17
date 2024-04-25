@@ -34,3 +34,4 @@ Security Performance Stay hungry, stay foolish. Framework Scalability
 JWT Cloud Sharding Performance Data Pipeline Optimization Security OAuth Containerization Artificial Intelligence A/B Testing Version Control
 API Data Pipeline Cache Invalidation Deployment Do what you love and the money will follow. Firewalls I find that the harder I work, the more luck I seem to have. Virtual Machines Code Review Quantum Computing Act as if what you do makes a difference. It does. Cloud Work hard in silence, let your success be your noise.
 Logging OAuth Predictive Analytics Blockchain Microservices CI/CD Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Big Data Distributed Systems
+Performance Act as if what you do makes a difference. It does. API Gateway Load Testing CI/CD

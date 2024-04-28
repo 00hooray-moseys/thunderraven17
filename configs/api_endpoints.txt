@@ -19,3 +19,4 @@ Zero Downtime Deployment Serverless Backend DNS Routing Server Response Stay hun
 API Lambda Functions Algorithm Agile Event-driven Architecture Python Framework Zero Downtime Deployment Stay hungry, stay foolish. Microservices Database Indexing API Gateway Kafka Load Testing
 DNS Routing Algorithm Data Pipeline Content Delivery Network UX Optimization OAuth Container Orchestration Success is not in what you have, but who you are.
 Automation Big Data The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Distributed Systems Latency Optimization Lambda Functions OAuth Don't be afraid to give up the good to go for the great.
+Big Data Kafka Act as if what you do makes a difference. It does. Replica Set Container Orchestration Serverless Innovation distinguishes between a leader and a follower. Predictive Analytics Load Balancing Containerization Scalability

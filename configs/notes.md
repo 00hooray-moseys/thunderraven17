@@ -15,3 +15,4 @@ Event Sourcing Big Data API Gateway Containerization Simplicity is the ultimate 
 Virtual Machines Success is not in what you have, but who you are. Event Sourcing A/B Testing Automation
 Optimization IoT Docker UX Optimization Predictive Analytics Great things never come from comfort zones. Backend Database CI/CD Event Sourcing Latency Optimization Load Balancing
 Kafka Version Control NLP Monitoring Performance Cloud I find that the harder I work, the more luck I seem to have. Distributed Systems Server Response JWT DNS Routing Work hard in silence, let your success be your noise. Container Orchestration Innovation distinguishes between a leader and a follower.
+Scalability Cloud Functions Parallel Processing Virtual Machines CI/CD WebSockets Replica Set Multi-threading

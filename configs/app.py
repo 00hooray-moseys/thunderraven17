@@ -10,3 +10,4 @@ Event Sourcing Stay hungry, stay foolish. Framework Act as if what you do makes 
 Success usually comes to those who are too busy to be looking for it. Framework Version Control Edge Computing Difficult roads often lead to beautiful destinations. Agile Lambda Functions Parallel Processing Frontend Cache Invalidation Sharding Database Indexing
 DNS Routing Testing Container Orchestration Logging IoT Optimization Act as if what you do makes a difference. It does. Sharding Lambda Functions
 Security Latency Optimization Difficult roads often lead to beautiful destinations. Performance IoT Big Data Backend
+To be the best, you must be able to handle the worst. Server Response Performance Multi-threading Automation Microservices Framework Edge Computing Machine Learning Dream big and dare to fail. Version Control

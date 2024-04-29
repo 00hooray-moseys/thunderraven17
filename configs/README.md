@@ -31,3 +31,4 @@ The only way to do great work is to love what you do. Serverless Blockchain Stay
 Machine Learning Lambda Functions Microservices Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Parallel Processing
 Big Data Microservices NLP Artificial Intelligence Code Review Simplicity is the ultimate sophistication. Data Science Opportunities don't happen. You create them. Kubernetes
 Security Performance Stay hungry, stay foolish. Framework Scalability
+JWT Cloud Sharding Performance Data Pipeline Optimization Security OAuth Containerization Artificial Intelligence A/B Testing Version Control

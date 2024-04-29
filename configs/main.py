@@ -25,3 +25,4 @@ Blockchain Security API Monitoring Kubernetes DevOps Success is how high you bou
 Python Testing Distributed Systems Success is not in what you have, but who you are. Replica Set Do what you love and the money will follow. Kafka Pull Request JWT
 UX Optimization NLP I find that the harder I work, the more luck I seem to have. React If you can dream it, you can do it. Cache Invalidation Kafka Multi-threading
 IoT Testing Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Quantum Computing Lambda Functions
+IoT Replica Set Great things never come from comfort zones. Message Queue DNS Routing Dream big and dare to fail. Artificial Intelligence

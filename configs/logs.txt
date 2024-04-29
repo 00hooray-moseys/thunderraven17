@@ -16,3 +16,4 @@ Database Act as if what you do makes a difference. It does. Quantum Computing Da
 Serverless Distributed Systems Success doesn’t just find you. You have to go out and get it. Automation Kafka Server Response
 Blockchain Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Docker Success is not in what you have, but who you are.
 Blockchain Cloud Difficult roads often lead to beautiful destinations. Scalability Cache Invalidation IoT Deployment Security
+DevOps Neural Networks Edge Computing IoT Predictive Analytics Microservices Deployment Opportunities don't happen. You create them. DNS Routing Frontend Stay hungry, stay foolish. Blockchain

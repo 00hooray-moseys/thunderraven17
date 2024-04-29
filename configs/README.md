@@ -32,3 +32,4 @@ Machine Learning Lambda Functions Microservices Happiness is not something ready
 Big Data Microservices NLP Artificial Intelligence Code Review Simplicity is the ultimate sophistication. Data Science Opportunities don't happen. You create them. Kubernetes
 Security Performance Stay hungry, stay foolish. Framework Scalability
 JWT Cloud Sharding Performance Data Pipeline Optimization Security OAuth Containerization Artificial Intelligence A/B Testing Version Control
+API Data Pipeline Cache Invalidation Deployment Do what you love and the money will follow. Firewalls I find that the harder I work, the more luck I seem to have. Virtual Machines Code Review Quantum Computing Act as if what you do makes a difference. It does. Cloud Work hard in silence, let your success be your noise.

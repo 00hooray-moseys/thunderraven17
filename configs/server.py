@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Testing Monitoring Do w
 WebSockets Data Pipeline Framework API Content Delivery Network Load Balancing Code Review
 Edge Computing Load Testing Opportunities don't happen. You create them. Latency Optimization RabbitMQ Microservices Frontend Zero Downtime Deployment Event Sourcing Success doesn’t just find you. You have to go out and get it.
 Backend Stay hungry, stay foolish. Lambda Functions Blockchain Containerization Python Optimization Pull Request Happiness is not something ready made. It comes from your own actions. UX Optimization Microservices
+Don't be afraid to give up the good to go for the great. A/B Testing Python Lambda Functions Opportunities don't happen. You create them. Cloud Functions

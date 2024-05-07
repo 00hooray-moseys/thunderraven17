@@ -12,3 +12,4 @@ JavaScript A/B Testing JWT Database Indexing Framework Cloud Functions
 DNS Routing API Gateway Work hard in silence, let your success be your noise. If you can dream it, you can do it. Replica Set
 GraphQL Neural Networks Kubernetes DevOps Container Orchestration Machine Learning Event Sourcing OAuth Scalability
 Sharding Neural Networks Pull Request To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Latency Optimization DevOps
+Load Testing Virtual Machines Automation Dream big and dare to fail. WebSockets Opportunities don't happen. You create them. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Performance Database Indexing

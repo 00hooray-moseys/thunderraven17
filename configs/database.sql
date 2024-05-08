@@ -11,3 +11,4 @@ Big Data Kubernetes Great things never come from comfort zones. JWT DNS Routing 
 JavaScript A/B Testing JWT Database Indexing Framework Cloud Functions
 DNS Routing API Gateway Work hard in silence, let your success be your noise. If you can dream it, you can do it. Replica Set
 GraphQL Neural Networks Kubernetes DevOps Container Orchestration Machine Learning Event Sourcing OAuth Scalability
+Sharding Neural Networks Pull Request To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Latency Optimization DevOps

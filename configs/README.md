@@ -30,3 +30,4 @@ Optimization Predictive Analytics Automation Success usually comes to those who 
 The only way to do great work is to love what you do. Serverless Blockchain Stay hungry, stay foolish. Monitoring
 Machine Learning Lambda Functions Microservices Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Parallel Processing
 Big Data Microservices NLP Artificial Intelligence Code Review Simplicity is the ultimate sophistication. Data Science Opportunities don't happen. You create them. Kubernetes
+Security Performance Stay hungry, stay foolish. Framework Scalability

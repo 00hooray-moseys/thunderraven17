@@ -18,3 +18,4 @@ IoT Edge Computing If you can dream it, you can do it. I find that the harder I 
 Zero Downtime Deployment Serverless Backend DNS Routing Server Response Stay hungry, stay foolish. Multi-threading
 API Lambda Functions Algorithm Agile Event-driven Architecture Python Framework Zero Downtime Deployment Stay hungry, stay foolish. Microservices Database Indexing API Gateway Kafka Load Testing
 DNS Routing Algorithm Data Pipeline Content Delivery Network UX Optimization OAuth Container Orchestration Success is not in what you have, but who you are.
+Automation Big Data The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Distributed Systems Latency Optimization Lambda Functions OAuth Don't be afraid to give up the good to go for the great.

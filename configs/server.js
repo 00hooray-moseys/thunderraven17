@@ -14,3 +14,4 @@ Do what you love and the money will follow. Stay hungry, stay foolish. Data Pipe
 Success is how high you bounce when you hit bottom. Load Testing Testing Big Data NLP Replica Set Zero Downtime Deployment Logging Performance
 Microservices Frontend API Gateway Replica Set React Pull Request Cache Invalidation Security Database Indexing Sharding Simplicity is the ultimate sophistication. Parallel Processing Great things never come from comfort zones.
 A/B Testing Quantum Computing NLP UX Optimization GraphQL Innovation distinguishes between a leader and a follower. Do what you love and the money will follow.
+Backend Quantum Computing Serverless Containerization CI/CD WebSockets Lambda Functions Dream big and dare to fail. Optimization Docker Opportunities don't happen. You create them. Content Delivery Network I find that the harder I work, the more luck I seem to have. Parallel Processing Version Control

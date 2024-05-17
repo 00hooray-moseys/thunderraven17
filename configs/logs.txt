@@ -14,3 +14,4 @@ NLP Quantum Computing JWT Great things never come from comfort zones. React Even
 NLP Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Latency Optimization CI/CD Blockchain If you can dream it, you can do it. Cloud Functions Artificial Intelligence
 Database Act as if what you do makes a difference. It does. Quantum Computing Database Indexing GraphQL Cloud Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it.
 Serverless Distributed Systems Success doesn’t just find you. You have to go out and get it. Automation Kafka Server Response
+Blockchain Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Docker Success is not in what you have, but who you are.

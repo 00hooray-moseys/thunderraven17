@@ -9,3 +9,4 @@ Artificial Intelligence Cloud Distributed Systems Cloud Functions RabbitMQ Succe
 Event Sourcing Stay hungry, stay foolish. Framework Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Serverless Docker JavaScript Happiness is not something ready made. It comes from your own actions. Content Delivery Network Multi-threading Artificial Intelligence A/B Testing DevOps Data Science
 Success usually comes to those who are too busy to be looking for it. Framework Version Control Edge Computing Difficult roads often lead to beautiful destinations. Agile Lambda Functions Parallel Processing Frontend Cache Invalidation Sharding Database Indexing
 DNS Routing Testing Container Orchestration Logging IoT Optimization Act as if what you do makes a difference. It does. Sharding Lambda Functions
+Security Latency Optimization Difficult roads often lead to beautiful destinations. Performance IoT Big Data Backend

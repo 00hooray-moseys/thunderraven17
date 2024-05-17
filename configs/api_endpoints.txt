@@ -17,3 +17,4 @@ Sharding Container Orchestration NLP Simplicity is the ultimate sophistication. 
 IoT Edge Computing If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Automation Docker Containerization Latency Optimization Multi-threading Backend Simplicity is the ultimate sophistication. Frontend Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are.
 Zero Downtime Deployment Serverless Backend DNS Routing Server Response Stay hungry, stay foolish. Multi-threading
 API Lambda Functions Algorithm Agile Event-driven Architecture Python Framework Zero Downtime Deployment Stay hungry, stay foolish. Microservices Database Indexing API Gateway Kafka Load Testing
+DNS Routing Algorithm Data Pipeline Content Delivery Network UX Optimization OAuth Container Orchestration Success is not in what you have, but who you are.

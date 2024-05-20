@@ -10,3 +10,4 @@ Parallel Processing Version Control Work hard in silence, let your success be yo
 Big Data Kubernetes Great things never come from comfort zones. JWT DNS Routing Scalability Database Event Sourcing
 JavaScript A/B Testing JWT Database Indexing Framework Cloud Functions
 DNS Routing API Gateway Work hard in silence, let your success be your noise. If you can dream it, you can do it. Replica Set
+GraphQL Neural Networks Kubernetes DevOps Container Orchestration Machine Learning Event Sourcing OAuth Scalability

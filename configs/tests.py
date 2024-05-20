@@ -16,3 +16,4 @@ Firewalls CI/CD Serverless DNS Routing Kubernetes Parallel Processing Edge Compu
 Scalability API Firewalls Simplicity is the ultimate sophistication. Docker Do what you love and the money will follow.
 Simplicity is the ultimate sophistication. Event Sourcing To be the best, you must be able to handle the worst. Microservices Latency Optimization Stay hungry, stay foolish. WebSockets Difficult roads often lead to beautiful destinations. Serverless Pull Request Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Firewalls Act as if what you do makes a difference. It does. CI/CD
 Virtual Machines Monitoring Content Delivery Network Quantum Computing Event Sourcing Blockchain Performance Scalability
+Frontend Dream big and dare to fail. Quantum Computing Don't be afraid to give up the good to go for the great. Cache Invalidation Container Orchestration Success usually comes to those who are too busy to be looking for it.

@@ -13,3 +13,4 @@ Do what you love and the money will follow. Don't be afraid to give up the good 
 Firewalls GraphQL Zero Downtime Deployment CI/CD Frontend Stay hungry, stay foolish.
 Event Sourcing Big Data API Gateway Containerization Simplicity is the ultimate sophistication. Latency Optimization Distributed Systems Neural Networks Machine Learning API IoT Success doesn’t just find you. You have to go out and get it. Frontend To be the best, you must be able to handle the worst.
 Virtual Machines Success is not in what you have, but who you are. Event Sourcing A/B Testing Automation
+Optimization IoT Docker UX Optimization Predictive Analytics Great things never come from comfort zones. Backend Database CI/CD Event Sourcing Latency Optimization Load Balancing

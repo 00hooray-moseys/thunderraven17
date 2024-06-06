@@ -22,3 +22,4 @@ OAuth API Gateway Docker Zero Downtime Deployment Scalability React Success is h
 CI/CD Automation Algorithm Containerization Predictive Analytics Quantum Computing Deployment Artificial Intelligence Monitoring Simplicity is the ultimate sophistication. Performance Neural Networks Distributed Systems
 Database Indexing Zero Downtime Deployment Code Review Machine Learning Difficult roads often lead to beautiful destinations.
 Blockchain Security API Monitoring Kubernetes DevOps Success is how high you bounce when you hit bottom. Framework Success doesn’t just find you. You have to go out and get it. Algorithm
+Python Testing Distributed Systems Success is not in what you have, but who you are. Replica Set Do what you love and the money will follow. Kafka Pull Request JWT

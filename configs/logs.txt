@@ -13,3 +13,4 @@ The only way to do great work is to love what you do. Don't be afraid to give up
 NLP Quantum Computing JWT Great things never come from comfort zones. React Event-driven Architecture
 NLP Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Latency Optimization CI/CD Blockchain If you can dream it, you can do it. Cloud Functions Artificial Intelligence
 Database Act as if what you do makes a difference. It does. Quantum Computing Database Indexing GraphQL Cloud Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it.
+Serverless Distributed Systems Success doesn’t just find you. You have to go out and get it. Automation Kafka Server Response

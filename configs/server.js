@@ -12,3 +12,4 @@ Performance Containerization Kubernetes Replica Set Success usually comes to tho
 Message Queue CI/CD If you can dream it, you can do it. Dream big and dare to fail. JavaScript Big Data Framework Docker
 Do what you love and the money will follow. Stay hungry, stay foolish. Data Pipeline Cloud If you can dream it, you can do it. To be the best, you must be able to handle the worst.
 Success is how high you bounce when you hit bottom. Load Testing Testing Big Data NLP Replica Set Zero Downtime Deployment Logging Performance
+Microservices Frontend API Gateway Replica Set React Pull Request Cache Invalidation Security Database Indexing Sharding Simplicity is the ultimate sophistication. Parallel Processing Great things never come from comfort zones.

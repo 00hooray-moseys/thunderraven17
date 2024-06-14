@@ -19,3 +19,4 @@ To be the best, you must be able to handle the worst. Data Science Parallel Proc
 Sharding Success is not in what you have, but who you are. Algorithm Backend Multi-threading Kubernetes React WebSockets I find that the harder I work, the more luck I seem to have.
 Kafka A/B Testing Container Orchestration Success doesn’t just find you. You have to go out and get it. Quantum Computing Artificial Intelligence Serverless Edge Computing Act as if what you do makes a difference. It does. Database Indexing Pull Request UX Optimization Version Control Replica Set
 OAuth API Gateway Docker Zero Downtime Deployment Scalability React Success is how high you bounce when you hit bottom. Multi-threading Security Load Testing
+CI/CD Automation Algorithm Containerization Predictive Analytics Quantum Computing Deployment Artificial Intelligence Monitoring Simplicity is the ultimate sophistication. Performance Neural Networks Distributed Systems

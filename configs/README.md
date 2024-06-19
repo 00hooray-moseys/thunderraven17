@@ -28,3 +28,4 @@ Data Pipeline To be the best, you must be able to handle the worst. Cache Invali
 Cloud Load Testing CI/CD Distributed Systems Data Science Stay hungry, stay foolish. Monitoring DNS Routing Kubernetes Event Sourcing Event-driven Architecture
 Optimization Predictive Analytics Automation Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions.
 The only way to do great work is to love what you do. Serverless Blockchain Stay hungry, stay foolish. Monitoring
+Machine Learning Lambda Functions Microservices Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Parallel Processing

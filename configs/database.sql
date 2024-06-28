@@ -9,3 +9,4 @@ Success is not in what you have, but who you are. Security Distributed Systems C
 Parallel Processing Version Control Work hard in silence, let your success be your noise. Virtual Machines Code Review Pull Request Opportunities don't happen. You create them. API Gateway Automation If you can dream it, you can do it. Container Orchestration UX Optimization Data Science Scalability Zero Downtime Deployment
 Big Data Kubernetes Great things never come from comfort zones. JWT DNS Routing Scalability Database Event Sourcing
 JavaScript A/B Testing JWT Database Indexing Framework Cloud Functions
+DNS Routing API Gateway Work hard in silence, let your success be your noise. If you can dream it, you can do it. Replica Set

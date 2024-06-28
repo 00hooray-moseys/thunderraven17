@@ -27,3 +27,4 @@ Kubernetes Backend Work hard in silence, let your success be your noise. Cloud G
 Data Pipeline To be the best, you must be able to handle the worst. Cache Invalidation Automation Success is how high you bounce when you hit bottom. Cloud GraphQL API Gateway Frontend
 Cloud Load Testing CI/CD Distributed Systems Data Science Stay hungry, stay foolish. Monitoring DNS Routing Kubernetes Event Sourcing Event-driven Architecture
 Optimization Predictive Analytics Automation Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions.
+The only way to do great work is to love what you do. Serverless Blockchain Stay hungry, stay foolish. Monitoring

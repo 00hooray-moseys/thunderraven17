@@ -22,3 +22,4 @@ OAuth JWT Agile Database Indexing Container Orchestration DNS Routing Testing Op
 Artificial Intelligence Testing Replica Set Cache Invalidation JavaScript Edge Computing Great things never come from comfort zones. Server Response Event Sourcing Load Testing
 Do what you love and the money will follow. Latency Optimization Multi-threading Simplicity is the ultimate sophistication. Distributed Systems API
 Quantum Computing Innovation distinguishes between a leader and a follower. Optimization Big Data Python Pull Request Success usually comes to those who are too busy to be looking for it.
+DNS Routing Security Framework Logging Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Dream big and dare to fail. Microservices

@@ -21,3 +21,4 @@ Cloud Functions Simplicity is the ultimate sophistication. Don't be afraid to gi
 OAuth JWT Agile Database Indexing Container Orchestration DNS Routing Testing Opportunities don't happen. You create them. Dream big and dare to fail. Success is not in what you have, but who you are. Sharding Database
 Artificial Intelligence Testing Replica Set Cache Invalidation JavaScript Edge Computing Great things never come from comfort zones. Server Response Event Sourcing Load Testing
 Do what you love and the money will follow. Latency Optimization Multi-threading Simplicity is the ultimate sophistication. Distributed Systems API
+Quantum Computing Innovation distinguishes between a leader and a follower. Optimization Big Data Python Pull Request Success usually comes to those who are too busy to be looking for it.

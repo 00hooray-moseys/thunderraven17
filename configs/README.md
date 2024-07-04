@@ -25,3 +25,4 @@ Lambda Functions Simplicity is the ultimate sophistication. Performance If you c
 Cloud Message Queue A/B Testing API Latency Optimization Blockchain
 Kubernetes Backend Work hard in silence, let your success be your noise. Cloud GraphQL Firewalls Testing IoT Version Control WebSockets Agile Success is not in what you have, but who you are. Content Delivery Network Do what you love and the money will follow.
 Data Pipeline To be the best, you must be able to handle the worst. Cache Invalidation Automation Success is how high you bounce when you hit bottom. Cloud GraphQL API Gateway Frontend
+Cloud Load Testing CI/CD Distributed Systems Data Science Stay hungry, stay foolish. Monitoring DNS Routing Kubernetes Event Sourcing Event-driven Architecture

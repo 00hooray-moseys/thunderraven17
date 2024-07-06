@@ -10,3 +10,4 @@ Microservices If you can dream it, you can do it. Zero Downtime Deployment The o
 Algorithm Logging The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. API Gateway Act as if what you do makes a difference. It does. Agile GraphQL Replica Set Monitoring Zero Downtime Deployment Virtual Machines
 Container Orchestration Deployment Parallel Processing Cloud Functions Microservices Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. CI/CD A/B Testing Predictive Analytics UX Optimization
 Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Framework To be the best, you must be able to handle the worst.
+Firewalls GraphQL Zero Downtime Deployment CI/CD Frontend Stay hungry, stay foolish.

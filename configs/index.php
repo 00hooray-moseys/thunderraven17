@@ -15,3 +15,4 @@ Python Containerization RabbitMQ Success doesn’t just find you. You have to go o
 NLP The only way to do great work is to love what you do. Container Orchestration Frontend Framework Happiness is not something ready made. It comes from your own actions. Parallel Processing
 Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Containerization Edge Computing Success is how high you bounce when you hit bottom. Sharding Lambda Functions Testing IoT Kubernetes Event Sourcing Cache Invalidation Quantum Computing Predictive Analytics Scalability
 Load Testing Distributed Systems Scalability Dream big and dare to fail. Kafka Great things never come from comfort zones. Zero Downtime Deployment Blockchain Python Success is not in what you have, but who you are. CI/CD
+WebSockets API To be the best, you must be able to handle the worst. Machine Learning Neural Networks Database Indexing Deployment Cloud

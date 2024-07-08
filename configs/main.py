@@ -16,3 +16,4 @@ Data Science Database Happiness is not something ready made. It comes from your 
 Algorithm Simplicity is the ultimate sophistication. Firewalls Load Balancing Agile Automation WebSockets Logging Multi-threading Opportunities don't happen. You create them. Testing
 RabbitMQ Work hard in silence, let your success be your noise. Sharding Automation Edge Computing DNS Routing Database Version Control Load Testing Big Data
 To be the best, you must be able to handle the worst. Data Science Parallel Processing Great things never come from comfort zones. Blockchain Replica Set Stay hungry, stay foolish. Event-driven Architecture Python Success is how high you bounce when you hit bottom.
+Sharding Success is not in what you have, but who you are. Algorithm Backend Multi-threading Kubernetes React WebSockets I find that the harder I work, the more luck I seem to have.

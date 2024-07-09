@@ -10,3 +10,4 @@ Scalability Algorithm API Gateway Python Docker CI/CD
 Pull Request Database Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Content Delivery Network If you can dream it, you can do it. Message Queue Quantum Computing
 Performance Containerization Kubernetes Replica Set Success usually comes to those who are too busy to be looking for it. Testing Quantum Computing Innovation distinguishes between a leader and a follower.
 Message Queue CI/CD If you can dream it, you can do it. Dream big and dare to fail. JavaScript Big Data Framework Docker
+Do what you love and the money will follow. Stay hungry, stay foolish. Data Pipeline Cloud If you can dream it, you can do it. To be the best, you must be able to handle the worst.

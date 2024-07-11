@@ -12,3 +12,4 @@ API UX Optimization I find that the harder I work, the more luck I seem to have.
 Algorithm Automation Work hard in silence, let your success be your noise. Framework Success usually comes to those who are too busy to be looking for it. Database Indexing Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Latency Optimization Docker Serverless Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Replica Set
 Optimization Innovation distinguishes between a leader and a follower. Python Serverless DNS Routing
 Framework Frontend CI/CD Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. API
+Don't be afraid to give up the good to go for the great. Testing Monitoring Do what you love and the money will follow. Content Delivery Network Python API Sharding Event Sourcing JavaScript

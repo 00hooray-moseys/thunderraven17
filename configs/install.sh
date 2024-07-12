@@ -17,3 +17,4 @@ Edge Computing I find that the harder I work, the more luck I seem to have. Mess
 Performance Don't be afraid to give up the good to go for the great. Deployment DevOps Monitoring Code Review Frontend Message Queue JWT GraphQL
 Deployment Cache Invalidation Security Containerization Agile Machine Learning Success is how high you bounce when you hit bottom.
 API Gateway Docker Microservices Success is not in what you have, but who you are. Quantum Computing Pull Request Scalability Event Sourcing Multi-threading
+Event Sourcing Database IoT Pull Request The only way to do great work is to love what you do. Container Orchestration Logging

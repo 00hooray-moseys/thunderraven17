@@ -15,3 +15,4 @@ Container Orchestration Load Testing The only way to do great work is to love wh
 Data Science Database Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Optimization WebSockets JWT Success usually comes to those who are too busy to be looking for it. NLP Automation Message Queue Sharding CI/CD Edge Computing Version Control
 Algorithm Simplicity is the ultimate sophistication. Firewalls Load Balancing Agile Automation WebSockets Logging Multi-threading Opportunities don't happen. You create them. Testing
 RabbitMQ Work hard in silence, let your success be your noise. Sharding Automation Edge Computing DNS Routing Database Version Control Load Testing Big Data
+To be the best, you must be able to handle the worst. Data Science Parallel Processing Great things never come from comfort zones. Blockchain Replica Set Stay hungry, stay foolish. Event-driven Architecture Python Success is how high you bounce when you hit bottom.

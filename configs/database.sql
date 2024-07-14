@@ -7,3 +7,4 @@ Performance The only way to do great work is to love what you do. Python Cloud F
 Docker Firewalls Simplicity is the ultimate sophistication. Edge Computing Database JWT Multi-threading Data Pipeline Agile Content Delivery Network Monitoring Performance Code Review
 Success is not in what you have, but who you are. Security Distributed Systems Cloud Functions Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Algorithm
 Parallel Processing Version Control Work hard in silence, let your success be your noise. Virtual Machines Code Review Pull Request Opportunities don't happen. You create them. API Gateway Automation If you can dream it, you can do it. Container Orchestration UX Optimization Data Science Scalability Zero Downtime Deployment
+Big Data Kubernetes Great things never come from comfort zones. JWT DNS Routing Scalability Database Event Sourcing

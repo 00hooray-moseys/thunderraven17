@@ -8,3 +8,4 @@ If you can dream it, you can do it. Cache Invalidation Data Science Predictive A
 Database Container Orchestration Message Queue Neural Networks Python Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Deployment To be the best, you must be able to handle the worst. Artificial Intelligence Kubernetes Predictive Analytics Lambda Functions Innovation distinguishes between a leader and a follower. Pull Request
 Scalability Algorithm API Gateway Python Docker CI/CD
 Pull Request Database Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Content Delivery Network If you can dream it, you can do it. Message Queue Quantum Computing
+Performance Containerization Kubernetes Replica Set Success usually comes to those who are too busy to be looking for it. Testing Quantum Computing Innovation distinguishes between a leader and a follower.

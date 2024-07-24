@@ -11,3 +11,4 @@ Event-driven Architecture Replica Set Data Science Backend Container Orchestrati
 Don't be afraid to give up the good to go for the great. Big Data Deployment Container Orchestration Scalability Frontend The only way to do great work is to love what you do. OAuth Serverless Version Control Simplicity is the ultimate sophistication. API
 Backend Stay hungry, stay foolish. Blockchain API Docker Performance Kafka API Gateway Database Indexing Monitoring CI/CD React Do what you love and the money will follow. Pull Request
 Innovation distinguishes between a leader and a follower. Load Balancing Dream big and dare to fail. Server Response React
+Blockchain Scalability Opportunities don't happen. You create them. NLP Multi-threading JWT DevOps Edge Computing

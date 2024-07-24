@@ -15,3 +15,4 @@ Do what you love and the money will follow. React Neural Networks Distributed Sy
 IoT Database Scalability Difficult roads often lead to beautiful destinations. Container Orchestration Serverless Code Review Event-driven Architecture JavaScript A/B Testing
 Edge Computing I find that the harder I work, the more luck I seem to have. Message Queue API Gateway Don't be afraid to give up the good to go for the great. Parallel Processing Cache Invalidation Deployment Monitoring Quantum Computing Container Orchestration Database Artificial Intelligence Predictive Analytics
 Performance Don't be afraid to give up the good to go for the great. Deployment DevOps Monitoring Code Review Frontend Message Queue JWT GraphQL
+Deployment Cache Invalidation Security Containerization Agile Machine Learning Success is how high you bounce when you hit bottom.

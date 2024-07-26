@@ -23,3 +23,4 @@ Predictive Analytics Security Distributed Systems Latency Optimization To be the
 Agile Success is how high you bounce when you hit bottom. Cloud Functions OAuth Message Queue JavaScript Sharding Multi-threading Zero Downtime Deployment Event-driven Architecture Simplicity is the ultimate sophistication.
 Lambda Functions Simplicity is the ultimate sophistication. Performance If you can dream it, you can do it. Distributed Systems Success doesn’t just find you. You have to go out and get it. Machine Learning
 Cloud Message Queue A/B Testing API Latency Optimization Blockchain
+Kubernetes Backend Work hard in silence, let your success be your noise. Cloud GraphQL Firewalls Testing IoT Version Control WebSockets Agile Success is not in what you have, but who you are. Content Delivery Network Do what you love and the money will follow.

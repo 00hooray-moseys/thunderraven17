@@ -8,3 +8,4 @@ JavaScript Deployment CI/CD Framework Multi-threading Firewalls Big Data Microse
 Replica Set Backend Container Orchestration Agile JavaScript Neural Networks Opportunities don't happen. You create them. Algorithm
 Success is how high you bounce when you hit bottom. Zero Downtime Deployment Kubernetes API Load Balancing Sharding Replica Set Happiness is not something ready made. It comes from your own actions. Deployment GraphQL Code Review A/B Testing Scalability Load Testing Act as if what you do makes a difference. It does.
 Database WebSockets OAuth Work hard in silence, let your success be your noise. CI/CD Logging
+Containerization Latency Optimization CI/CD React Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Deployment Performance IoT API I find that the harder I work, the more luck I seem to have. Cloud

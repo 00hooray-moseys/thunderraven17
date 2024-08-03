@@ -11,3 +11,4 @@ CI/CD Distributed Systems DNS Routing Cache Invalidation Backend API Happiness i
 API Docker Deployment Event Sourcing Act as if what you do makes a difference. It does. Monitoring Security
 Do what you love and the money will follow. Predictive Analytics JWT DNS Routing Database IoT Docker Latency Optimization Work hard in silence, let your success be your noise. Artificial Intelligence I find that the harder I work, the more luck I seem to have. Deployment UX Optimization Difficult roads often lead to beautiful destinations.
 Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. GraphQL Event-driven Architecture Frontend Python If you can dream it, you can do it. Kafka
+If you can dream it, you can do it. Database RabbitMQ Logging Security Testing Monitoring Big Data Docker Success is not in what you have, but who you are. Zero Downtime Deployment DNS Routing Version Control

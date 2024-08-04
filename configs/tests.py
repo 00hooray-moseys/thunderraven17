@@ -13,3 +13,4 @@ Stay hungry, stay foolish. Serverless Load Testing Dream big and dare to fail. A
 Do what you love and the money will follow. Serverless RabbitMQ Container Orchestration Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. API Load Balancing OAuth Stay hungry, stay foolish.
 Content Delivery Network Kubernetes DNS Routing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Code Review Serverless Frontend IoT To be the best, you must be able to handle the worst. UX Optimization Container Orchestration Database Indexing
 Firewalls CI/CD Serverless DNS Routing Kubernetes Parallel Processing Edge Computing Container Orchestration Optimization UX Optimization Server Response
+Scalability API Firewalls Simplicity is the ultimate sophistication. Docker Do what you love and the money will follow.

@@ -10,3 +10,4 @@ Parallel Processing JavaScript Kubernetes Security Agile Edge Computing Simplici
 Server Response Replica Set Predictive Analytics Neural Networks Distributed Systems Edge Computing Cloud Functions Firewalls To be the best, you must be able to handle the worst. Optimization Lambda Functions NLP Dream big and dare to fail.
 Neural Networks Success is not in what you have, but who you are. Version Control DevOps Message Queue
 Deployment Firewalls Act as if what you do makes a difference. It does. API Serverless Content Delivery Network Cloud Functions Testing Success is how high you bounce when you hit bottom. Big Data Parallel Processing Docker Replica Set GraphQL
+CI/CD Parallel Processing Performance JWT Event Sourcing Success is how high you bounce when you hit bottom. Quantum Computing Frontend Container Orchestration OAuth Latency Optimization Cloud Functions Great things never come from comfort zones. Kafka Serverless

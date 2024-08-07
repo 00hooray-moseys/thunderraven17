@@ -10,3 +10,4 @@ Message Queue Do what you love and the money will follow. Monitoring Agile React
 JavaScript A/B Testing Virtual Machines Data Pipeline Success is not in what you have, but who you are.
 API UX Optimization I find that the harder I work, the more luck I seem to have. Data Science Code Review Parallel Processing Monitoring Lambda Functions Distributed Systems Server Response Container Orchestration WebSockets Edge Computing Event-driven Architecture
 Algorithm Automation Work hard in silence, let your success be your noise. Framework Success usually comes to those who are too busy to be looking for it. Database Indexing Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Latency Optimization Docker Serverless Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Replica Set
+Optimization Innovation distinguishes between a leader and a follower. Python Serverless DNS Routing

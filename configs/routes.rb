@@ -7,3 +7,4 @@ Logging Opportunities don't happen. You create them. If you can dream it, you ca
 JavaScript Deployment CI/CD Framework Multi-threading Firewalls Big Data Microservices NLP API Gateway Dream big and dare to fail. Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Data Science Content Delivery Network
 Replica Set Backend Container Orchestration Agile JavaScript Neural Networks Opportunities don't happen. You create them. Algorithm
 Success is how high you bounce when you hit bottom. Zero Downtime Deployment Kubernetes API Load Balancing Sharding Replica Set Happiness is not something ready made. It comes from your own actions. Deployment GraphQL Code Review A/B Testing Scalability Load Testing Act as if what you do makes a difference. It does.
+Database WebSockets OAuth Work hard in silence, let your success be your noise. CI/CD Logging

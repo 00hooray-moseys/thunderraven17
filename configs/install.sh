@@ -11,3 +11,4 @@ Optimization Multi-threading Backend Kafka Testing
 Database Indexing CI/CD Neural Networks Algorithm DNS Routing OAuth Automation Artificial Intelligence Server Response Agile
 JWT Optimization DNS Routing Firewalls WebSockets Quantum Computing Performance To be the best, you must be able to handle the worst. Latency Optimization RabbitMQ Load Testing Dream big and dare to fail. Message Queue Stay hungry, stay foolish.
 Predictive Analytics Docker Deployment Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. JWT If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them.
+Do what you love and the money will follow. React Neural Networks Distributed Systems Machine Learning Great things never come from comfort zones. Testing JavaScript

@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. Backend GraphQL Dis
 Work hard in silence, let your success be your noise. Message Queue CI/CD Serverless Version Control
 Security Quantum Computing Difficult roads often lead to beautiful destinations. Replica Set Kafka Optimization
 Don't be afraid to give up the good to go for the great. JavaScript Parallel Processing I find that the harder I work, the more luck I seem to have. Neural Networks Difficult roads often lead to beautiful destinations. Scalability Event Sourcing Event-driven Architecture Logging Success usually comes to those who are too busy to be looking for it. Frontend Pull Request A/B Testing
+Success is not in what you have, but who you are. Monitoring Docker Artificial Intelligence RabbitMQ JavaScript To be the best, you must be able to handle the worst. Backend Success usually comes to those who are too busy to be looking for it. CI/CD

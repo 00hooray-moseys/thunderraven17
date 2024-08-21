@@ -9,3 +9,4 @@ Dream big and dare to fail. Success doesn’t just find you. You have to go out an
 Work hard in silence, let your success be your noise. Container Orchestration API Gateway Sharding Database Indexing Python DNS Routing GraphQL
 Optimization Multi-threading Backend Kafka Testing
 Database Indexing CI/CD Neural Networks Algorithm DNS Routing OAuth Automation Artificial Intelligence Server Response Agile
+JWT Optimization DNS Routing Firewalls WebSockets Quantum Computing Performance To be the best, you must be able to handle the worst. Latency Optimization RabbitMQ Load Testing Dream big and dare to fail. Message Queue Stay hungry, stay foolish.

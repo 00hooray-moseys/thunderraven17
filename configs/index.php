@@ -12,3 +12,4 @@ Latency Optimization Testing To be the best, you must be able to handle the wors
 Load Testing Multi-threading Edge Computing Deployment Success is how high you bounce when you hit bottom. GraphQL Cloud Functions Database Distributed Systems
 Don't be afraid to give up the good to go for the great. GraphQL Container Orchestration React Distributed Systems Data Science Cloud Agile Parallel Processing Zero Downtime Deployment Neural Networks Firewalls Machine Learning Multi-threading
 Python Containerization RabbitMQ Success doesn’t just find you. You have to go out and get it. Automation Dream big and dare to fail. Monitoring API Code Review DNS Routing Great things never come from comfort zones.
+NLP The only way to do great work is to love what you do. Container Orchestration Frontend Framework Happiness is not something ready made. It comes from your own actions. Parallel Processing

@@ -12,3 +12,4 @@ Content Delivery Network Neural Networks Multi-threading NLP Edge Computing
 Frontend JavaScript Microservices Neural Networks API Agile Opportunities don't happen. You create them.
 Artificial Intelligence Lambda Functions Version Control Content Delivery Network If you can dream it, you can do it. Deployment Multi-threading JWT I find that the harder I work, the more luck I seem to have.
 Container Orchestration Load Testing The only way to do great work is to love what you do. Code Review Latency Optimization Cloud Functions Success is how high you bounce when you hit bottom. NLP Database Indexing Frontend Containerization RabbitMQ Security
+Data Science Database Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Optimization WebSockets JWT Success usually comes to those who are too busy to be looking for it. NLP Automation Message Queue Sharding CI/CD Edge Computing Version Control

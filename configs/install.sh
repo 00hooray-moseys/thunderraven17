@@ -8,3 +8,4 @@ Kafka Success is how high you bounce when you hit bottom. Do what you love and t
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Distributed Systems Deployment NLP Kafka Sharding DNS Routing Neural Networks Success is how high you bounce when you hit bottom. Logging Optimization Cloud Functions Event-driven Architecture
 Work hard in silence, let your success be your noise. Container Orchestration API Gateway Sharding Database Indexing Python DNS Routing GraphQL
 Optimization Multi-threading Backend Kafka Testing
+Database Indexing CI/CD Neural Networks Algorithm DNS Routing OAuth Automation Artificial Intelligence Server Response Agile

@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Version Control Backend Co
 Multi-threading Quantum Computing Load Testing Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. If you can dream it, you can do it. Event Sourcing Container Orchestration Data Science
 Success is not in what you have, but who you are. UX Optimization Blockchain DNS Routing API Gateway Great things never come from comfort zones. Quantum Computing Testing
 RabbitMQ Blockchain Edge Computing Event Sourcing I find that the harder I work, the more luck I seem to have. Content Delivery Network Security DNS Routing Don't be afraid to give up the good to go for the great. Parallel Processing Database Indexing Automation Distributed Systems Multi-threading
+Cloud Functions Database WebSockets IoT Pull Request RabbitMQ Optimization I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it.

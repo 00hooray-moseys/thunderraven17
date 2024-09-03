@@ -9,3 +9,4 @@ Database Work hard in silence, let your success be your noise. Do what you love 
 Load Balancing JavaScript Big Data Algorithm Scalability React Happiness is not something ready made. It comes from your own actions.
 Agile Act as if what you do makes a difference. It does. Sharding Innovation distinguishes between a leader and a follower. Version Control WebSockets Database GraphQL Frontend Multi-threading Distributed Systems Python Deployment Lambda Functions
 Latency Optimization Testing To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. A/B Testing Multi-threading NLP OAuth RabbitMQ
+Load Testing Multi-threading Edge Computing Deployment Success is how high you bounce when you hit bottom. GraphQL Cloud Functions Database Distributed Systems

@@ -7,3 +7,4 @@ Neural Networks GraphQL Success is how high you bounce when you hit bottom. Serv
 Monitoring I find that the harder I work, the more luck I seem to have. Scalability Difficult roads often lead to beautiful destinations. Load Balancing Algorithm
 I find that the harder I work, the more luck I seem to have. Backend GraphQL Distributed Systems Data Science Containerization Innovation distinguishes between a leader and a follower. Code Review Container Orchestration Difficult roads often lead to beautiful destinations. Testing Neural Networks Quantum Computing Cache Invalidation
 Work hard in silence, let your success be your noise. Message Queue CI/CD Serverless Version Control
+Security Quantum Computing Difficult roads often lead to beautiful destinations. Replica Set Kafka Optimization

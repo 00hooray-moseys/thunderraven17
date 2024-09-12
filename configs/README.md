@@ -19,3 +19,4 @@ API Gateway Act as if what you do makes a difference. It does. Microservices Suc
 Neural Networks Testing Microservices API To be the best, you must be able to handle the worst. Performance Dream big and dare to fail. Quantum Computing API Gateway Do what you love and the money will follow. NLP
 IoT Python If you can dream it, you can do it. Work hard in silence, let your success be your noise. Frontend Cloud API Kubernetes Server Response Great things never come from comfort zones. Monitoring
 Scalability Framework Database WebSockets JWT Zero Downtime Deployment Microservices If you can dream it, you can do it. Testing Great things never come from comfort zones. Multi-threading
+Predictive Analytics Security Distributed Systems Latency Optimization To be the best, you must be able to handle the worst. Kubernetes UX Optimization Dream big and dare to fail. Automation Server Response I find that the harder I work, the more luck I seem to have.

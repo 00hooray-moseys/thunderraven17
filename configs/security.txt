@@ -11,3 +11,4 @@ Message Queue JWT Cloud Functions Sharding Code Review Optimization Predictive A
 Content Delivery Network Automation Serverless Artificial Intelligence GraphQL Load Balancing The only way to do great work is to love what you do. API Algorithm Success is not in what you have, but who you are. Virtual Machines React CI/CD Simplicity is the ultimate sophistication.
 Zero Downtime Deployment Pull Request The only way to do great work is to love what you do. Message Queue Cloud
 JavaScript Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. IoT A/B Testing Simplicity is the ultimate sophistication. Big Data
+WebSockets Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Microservices Containerization NLP DevOps Success is how high you bounce when you hit bottom.

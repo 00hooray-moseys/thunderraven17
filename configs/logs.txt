@@ -5,3 +5,4 @@ NLP Security Zero Downtime Deployment RabbitMQ To be the best, you must be able 
 Testing OAuth Predictive Analytics Success is how high you bounce when you hit bottom. Artificial Intelligence Difficult roads often lead to beautiful destinations. Edge Computing Serverless Multi-threading Stay hungry, stay foolish. Event Sourcing Kubernetes Data Pipeline
 Pull Request Algorithm Opportunities don't happen. You create them. Parallel Processing Machine Learning Python Don't be afraid to give up the good to go for the great. Event-driven Architecture React Event Sourcing OAuth Framework Edge Computing Cache Invalidation
 Sharding Optimization Happiness is not something ready made. It comes from your own actions. RabbitMQ Zero Downtime Deployment Containerization
+Docker Predictive Analytics Load Testing Performance Security Backend CI/CD Firewalls Success usually comes to those who are too busy to be looking for it. Neural Networks Code Review

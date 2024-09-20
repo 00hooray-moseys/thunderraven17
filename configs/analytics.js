@@ -8,3 +8,4 @@ The only way to do great work is to love what you do. Data Science Serverless Re
 Edge Computing Container Orchestration Stay hungry, stay foolish. Server Response Load Balancing NLP Content Delivery Network API Gateway
 Event-driven Architecture Lambda Functions Act as if what you do makes a difference. It does. Serverless Load Balancing Security Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Quantum Computing RabbitMQ Framework Logging Great things never come from comfort zones. Docker A/B Testing
 CI/CD Distributed Systems DNS Routing Cache Invalidation Backend API Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones.
+API Docker Deployment Event Sourcing Act as if what you do makes a difference. It does. Monitoring Security

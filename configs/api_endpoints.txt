@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Act as if what you do make
 DNS Routing API Gateway CI/CD OAuth Backend Microservices Framework Success is how high you bounce when you hit bottom. Blockchain
 Parallel Processing JavaScript Kubernetes Security Agile Edge Computing Simplicity is the ultimate sophistication. API Predictive Analytics Microservices Cache Invalidation Load Testing Stay hungry, stay foolish. JWT Lambda Functions
 Server Response Replica Set Predictive Analytics Neural Networks Distributed Systems Edge Computing Cloud Functions Firewalls To be the best, you must be able to handle the worst. Optimization Lambda Functions NLP Dream big and dare to fail.
+Neural Networks Success is not in what you have, but who you are. Version Control DevOps Message Queue

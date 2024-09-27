@@ -6,3 +6,4 @@ DevOps Act as if what you do makes a difference. It does. Microservices Kafka Ze
 Python Opportunities don't happen. You create them. Containerization Algorithm Machine Learning Code Review Monitoring
 Backend Edge Computing Code Review Content Delivery Network Opportunities don't happen. You create them.
 GraphQL Database Load Testing Database Indexing Distributed Systems Opportunities don't happen. You create them. Frontend Optimization DevOps Automation Code Review Success is how high you bounce when you hit bottom. Microservices Latency Optimization Cache Invalidation
+Message Queue Do what you love and the money will follow. Monitoring Agile React Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. IoT Success is not in what you have, but who you are. Stay hungry, stay foolish.

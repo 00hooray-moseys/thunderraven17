@@ -7,3 +7,4 @@ Backend NLP Server Response Agile Event Sourcing WebSockets Success is how high 
 Kafka Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Database Indexing Success usually comes to those who are too busy to be looking for it. UX Optimization Version Control Zero Downtime Deployment IoT Cloud Functions
 Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Distributed Systems Deployment NLP Kafka Sharding DNS Routing Neural Networks Success is how high you bounce when you hit bottom. Logging Optimization Cloud Functions Event-driven Architecture
 Work hard in silence, let your success be your noise. Container Orchestration API Gateway Sharding Database Indexing Python DNS Routing GraphQL
+Optimization Multi-threading Backend Kafka Testing

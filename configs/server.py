@@ -5,3 +5,4 @@ Testing Event-driven Architecture Data Science Firewalls Data Pipeline
 DevOps Act as if what you do makes a difference. It does. Microservices Kafka Zero Downtime Deployment Performance Logging CI/CD Distributed Systems Database Indexing Cloud Load Testing Success is not in what you have, but who you are.
 Python Opportunities don't happen. You create them. Containerization Algorithm Machine Learning Code Review Monitoring
 Backend Edge Computing Code Review Content Delivery Network Opportunities don't happen. You create them.
+GraphQL Database Load Testing Database Indexing Distributed Systems Opportunities don't happen. You create them. Frontend Optimization DevOps Automation Code Review Success is how high you bounce when you hit bottom. Microservices Latency Optimization Cache Invalidation

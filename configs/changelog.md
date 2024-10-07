@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. To be the best, you
 Agile API Scalability JWT Neural Networks
 To be the best, you must be able to handle the worst. Version Control Backend Containerization Virtual Machines Container Orchestration Kubernetes IoT Data Science Artificial Intelligence Replica Set UX Optimization Stay hungry, stay foolish. Quantum Computing GraphQL
 Multi-threading Quantum Computing Load Testing Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. If you can dream it, you can do it. Event Sourcing Container Orchestration Data Science
+Success is not in what you have, but who you are. UX Optimization Blockchain DNS Routing API Gateway Great things never come from comfort zones. Quantum Computing Testing

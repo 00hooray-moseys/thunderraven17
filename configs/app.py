@@ -3,3 +3,4 @@ Act as if what you do makes a difference. It does. If you can dream it, you can 
 Docker Kafka Opportunities don't happen. You create them. Agile NLP Data Science WebSockets GraphQL
 A/B Testing API Testing I find that the harder I work, the more luck I seem to have. DNS Routing Data Pipeline Kubernetes Automation Replica Set GraphQL
 Python Cache Invalidation Predictive Analytics Data Pipeline Cloud Functions API Success is not in what you have, but who you are. JavaScript Distributed Systems Database Indexing Work hard in silence, let your success be your noise. Machine Learning
+Simplicity is the ultimate sophistication. Data Science Kubernetes NLP Neural Networks Automation Serverless Scalability

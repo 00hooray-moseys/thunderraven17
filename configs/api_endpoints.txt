@@ -6,3 +6,4 @@ Server Response Code Review Innovation distinguishes between a leader and a foll
 Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. A/B Testing Quantum Computing Big Data OAuth Docker Event Sourcing Load Testing
 To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Monitoring JWT Automation Virtual Machines Algorithm Latency Optimization Kafka IoT Zero Downtime Deployment Deployment DNS Routing Cloud
 DNS Routing API Gateway CI/CD OAuth Backend Microservices Framework Success is how high you bounce when you hit bottom. Blockchain
+Parallel Processing JavaScript Kubernetes Security Agile Edge Computing Simplicity is the ultimate sophistication. API Predictive Analytics Microservices Cache Invalidation Load Testing Stay hungry, stay foolish. JWT Lambda Functions

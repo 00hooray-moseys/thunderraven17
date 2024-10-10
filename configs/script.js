@@ -5,3 +5,4 @@ API Cloud Deployment Great things never come from comfort zones. Don't be afraid
 Automation Scalability Success usually comes to those who are too busy to be looking for it. Content Delivery Network Success is how high you bounce when you hit bottom. Load Balancing UX Optimization Blockchain Great things never come from comfort zones.
 Performance Predictive Analytics API Gateway Database Monitoring Innovation distinguishes between a leader and a follower.
 Success is not in what you have, but who you are. Monitoring Logging Distributed Systems Event Sourcing Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Opportunities don't happen. You create them. Sharding DNS Routing
+Do what you love and the money will follow. Event Sourcing Multi-threading JWT Serverless Simplicity is the ultimate sophistication. Lambda Functions IoT Predictive Analytics Cloud GraphQL API Agile Docker

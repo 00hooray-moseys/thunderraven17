@@ -4,3 +4,4 @@ OAuth Data Science Do what you love and the money will follow. CI/CD Load Testin
 NLP Security Zero Downtime Deployment RabbitMQ To be the best, you must be able to handle the worst. Load Testing Pull Request
 Testing OAuth Predictive Analytics Success is how high you bounce when you hit bottom. Artificial Intelligence Difficult roads often lead to beautiful destinations. Edge Computing Serverless Multi-threading Stay hungry, stay foolish. Event Sourcing Kubernetes Data Pipeline
 Pull Request Algorithm Opportunities don't happen. You create them. Parallel Processing Machine Learning Python Don't be afraid to give up the good to go for the great. Event-driven Architecture React Event Sourcing OAuth Framework Edge Computing Cache Invalidation
+Sharding Optimization Happiness is not something ready made. It comes from your own actions. RabbitMQ Zero Downtime Deployment Containerization

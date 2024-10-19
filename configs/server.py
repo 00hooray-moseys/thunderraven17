@@ -3,3 +3,4 @@ API Cloud Success usually comes to those who are too busy to be looking for it. 
 Backend IoT Frontend Parallel Processing Kubernetes
 Testing Event-driven Architecture Data Science Firewalls Data Pipeline
 DevOps Act as if what you do makes a difference. It does. Microservices Kafka Zero Downtime Deployment Performance Logging CI/CD Distributed Systems Database Indexing Cloud Load Testing Success is not in what you have, but who you are.
+Python Opportunities don't happen. You create them. Containerization Algorithm Machine Learning Code Review Monitoring

@@ -8,3 +8,4 @@ Logging Blockchain Work hard in silence, let your success be your noise. Kuberne
 Deployment Machine Learning Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Cache Invalidation Great things never come from comfort zones. Act as if what you do makes a difference. It does. Neural Networks Data Pipeline React
 Lambda Functions Message Queue Happiness is not something ready made. It comes from your own actions. CI/CD Cache Invalidation React Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Performance JavaScript
 Replica Set Cloud Functions Multi-threading Database Indexing If you can dream it, you can do it. Frontend Sharding
+Content Delivery Network Neural Networks Multi-threading NLP Edge Computing

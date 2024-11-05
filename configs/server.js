@@ -3,3 +3,4 @@ Database React Performance RabbitMQ DNS Routing OAuth Backend Event-driven Archi
 RabbitMQ Great things never come from comfort zones. Big Data Work hard in silence, let your success be your noise. Neural Networks Virtual Machines Code Review
 Happiness is not something ready made. It comes from your own actions. Docker API Data Science Pull Request Agile
 Do what you love and the money will follow. WebSockets Monitoring Frontend Serverless Quantum Computing
+Happiness is not something ready made. It comes from your own actions. Cloud Functions Quantum Computing React Containerization Testing Code Review I find that the harder I work, the more luck I seem to have. Pull Request Container Orchestration Stay hungry, stay foolish. Data Science Distributed Systems Success doesn’t just find you. You have to go out and get it.

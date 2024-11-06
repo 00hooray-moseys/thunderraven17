@@ -4,3 +4,4 @@ Database Indexing Framework GraphQL Do what you love and the money will follow. 
 Quantum Computing Firewalls Stay hungry, stay foolish. Cloud CI/CD Optimization To be the best, you must be able to handle the worst. Scalability DNS Routing Algorithm Predictive Analytics Distributed Systems Big Data Serverless
 Dream big and dare to fail. Innovation distinguishes between a leader and a follower. GraphQL Pull Request NLP
 Neural Networks GraphQL Success is how high you bounce when you hit bottom. Serverless Code Review Microservices To be the best, you must be able to handle the worst. Load Testing Cloud Functions WebSockets Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Event-driven Architecture
+Monitoring I find that the harder I work, the more luck I seem to have. Scalability Difficult roads often lead to beautiful destinations. Load Balancing Algorithm

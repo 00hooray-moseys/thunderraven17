@@ -5,3 +5,4 @@ Distributed Systems GraphQL I find that the harder I work, the more luck I seem 
 Agile Big Data Sharding Dream big and dare to fail. The only way to do great work is to love what you do. Server Response Multi-threading React Framework
 Logging Opportunities don't happen. You create them. If you can dream it, you can do it. Message Queue Python Zero Downtime Deployment Server Response
 JavaScript Deployment CI/CD Framework Multi-threading Firewalls Big Data Microservices NLP API Gateway Dream big and dare to fail. Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Data Science Content Delivery Network
+Replica Set Backend Container Orchestration Agile JavaScript Neural Networks Opportunities don't happen. You create them. Algorithm

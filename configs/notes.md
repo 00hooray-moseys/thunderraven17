@@ -3,3 +3,4 @@ Scalability DevOps JWT Cloud GraphQL I find that the harder I work, the more luc
 CI/CD The only way to do great work is to love what you do. Serverless OAuth Database Indexing Monitoring API Container Orchestration Replica Set Success usually comes to those who are too busy to be looking for it. Virtual Machines Opportunities don't happen. You create them. Event-driven Architecture Logging Kubernetes
 Pull Request Scalability Success is not in what you have, but who you are. Performance API Code Review Docker Innovation distinguishes between a leader and a follower. Testing Serverless
 Optimization Machine Learning Kubernetes API Gateway Load Balancing Security Difficult roads often lead to beautiful destinations. Event Sourcing Act as if what you do makes a difference. It does.
+Content Delivery Network Code Review GraphQL Distributed Systems Docker Event Sourcing

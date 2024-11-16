@@ -3,3 +3,4 @@ Database Indexing Message Queue RabbitMQ Load Balancing Firewalls Great things n
 UX Optimization Great things never come from comfort zones. JavaScript Replica Set A/B Testing React The only way to do great work is to love what you do. GraphQL
 API Cloud Deployment Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Scalability OAuth Success is not in what you have, but who you are.
 Automation Scalability Success usually comes to those who are too busy to be looking for it. Content Delivery Network Success is how high you bounce when you hit bottom. Load Balancing UX Optimization Blockchain Great things never come from comfort zones.
+Performance Predictive Analytics API Gateway Database Monitoring Innovation distinguishes between a leader and a follower.

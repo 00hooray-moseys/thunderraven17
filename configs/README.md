@@ -11,3 +11,4 @@ Docker Microservices OAuth Innovation distinguishes between a leader and a follo
 Cloud WebSockets Zero Downtime Deployment Agile Success usually comes to those who are too busy to be looking for it. Containerization IoT Event-driven Architecture
 Data Pipeline Multi-threading Container Orchestration JWT To be the best, you must be able to handle the worst. Agile A/B Testing
 Do what you love and the money will follow. Pull Request If you can dream it, you can do it. Neural Networks Stay hungry, stay foolish.
+Version Control Firewalls Success doesn’t just find you. You have to go out and get it. Machine Learning Cache Invalidation Zero Downtime Deployment Quantum Computing IoT Optimization Parallel Processing Logging Docker

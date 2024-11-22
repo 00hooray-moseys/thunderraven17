@@ -9,3 +9,4 @@ OAuth Dream big and dare to fail. JavaScript To be the best, you must be able to
 JWT Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Version Control Testing Lambda Functions A/B Testing Security Containerization Distributed Systems Scalability Content Delivery Network Database Indexing Cloud Functions Do what you love and the money will follow.
 Docker Microservices OAuth Innovation distinguishes between a leader and a follower. NLP Container Orchestration Virtual Machines Do what you love and the money will follow.
 Cloud WebSockets Zero Downtime Deployment Agile Success usually comes to those who are too busy to be looking for it. Containerization IoT Event-driven Architecture
+Data Pipeline Multi-threading Container Orchestration JWT To be the best, you must be able to handle the worst. Agile A/B Testing

@@ -4,3 +4,4 @@ Frontend Data Pipeline If you can dream it, you can do it. Lambda Functions Logg
 Machine Learning JavaScript Cache Invalidation Neural Networks Monitoring Content Delivery Network CI/CD
 Blockchain Python NLP Distributed Systems If you can dream it, you can do it. Container Orchestration Microservices
 Backend RabbitMQ OAuth I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Logging Quantum Computing
+Logging Blockchain Work hard in silence, let your success be your noise. Kubernetes Load Testing Opportunities don't happen. You create them. GraphQL Virtual Machines Containerization Version Control Innovation distinguishes between a leader and a follower. Event-driven Architecture

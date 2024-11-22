@@ -5,3 +5,4 @@ Machine Learning JavaScript Cache Invalidation Neural Networks Monitoring Conten
 Blockchain Python NLP Distributed Systems If you can dream it, you can do it. Container Orchestration Microservices
 Backend RabbitMQ OAuth I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Logging Quantum Computing
 Logging Blockchain Work hard in silence, let your success be your noise. Kubernetes Load Testing Opportunities don't happen. You create them. GraphQL Virtual Machines Containerization Version Control Innovation distinguishes between a leader and a follower. Event-driven Architecture
+Deployment Machine Learning Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Cache Invalidation Great things never come from comfort zones. Act as if what you do makes a difference. It does. Neural Networks Data Pipeline React

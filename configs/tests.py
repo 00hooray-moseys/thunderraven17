@@ -6,3 +6,4 @@ Python Data Science WebSockets Microservices Optimization Container Orchestratio
 DNS Routing Success usually comes to those who are too busy to be looking for it. Data Pipeline Cloud Multi-threading Distributed Systems Kubernetes Predictive Analytics Great things never come from comfort zones. Logging Don't be afraid to give up the good to go for the great. Load Balancing
 Cloud Functions Blockchain Simplicity is the ultimate sophistication. Latency Optimization To be the best, you must be able to handle the worst. Optimization
 Opportunities don't happen. You create them. Container Orchestration Latency Optimization Neural Networks Frontend Success is not in what you have, but who you are. Data Pipeline Sharding Innovation distinguishes between a leader and a follower. Event-driven Architecture Multi-threading
+API Multi-threading Algorithm Load Testing Backend

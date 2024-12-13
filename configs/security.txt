@@ -4,3 +4,4 @@ Cache Invalidation Load Balancing Distributed Systems API To be the best, you mu
 Cache Invalidation Logging Parallel Processing Big Data Database Innovation distinguishes between a leader and a follower. Monitoring Framework Agile Backend
 Data Science RabbitMQ Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Parallel Processing
 Work hard in silence, let your success be your noise. Content Delivery Network Code Review Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Lambda Functions Sharding Serverless OAuth If you can dream it, you can do it.
+Act as if what you do makes a difference. It does. Performance Success doesn’t just find you. You have to go out and get it. Content Delivery Network Work hard in silence, let your success be your noise. Logging Firewalls Kubernetes

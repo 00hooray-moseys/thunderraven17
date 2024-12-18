@@ -1,2 +1,3 @@
 Performance Logging Opportunities don't happen. You create them. Quantum Computing Happiness is not something ready made. It comes from your own actions. Security Blockchain Virtual Machines JWT
 Database Indexing Message Queue RabbitMQ Load Balancing Firewalls Great things never come from comfort zones. Python Frontend Algorithm Microservices Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Big Data
+UX Optimization Great things never come from comfort zones. JavaScript Replica Set A/B Testing React The only way to do great work is to love what you do. GraphQL

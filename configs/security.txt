@@ -1,3 +1,4 @@
 Blockchain Sharding Microservices Big Data Frontend JavaScript Firewalls Don't be afraid to give up the good to go for the great.
 Multi-threading Kubernetes Logging React DNS Routing Sharding Database Indexing JWT Replica Set Server Response Containerization IoT
 Cache Invalidation Load Balancing Distributed Systems API To be the best, you must be able to handle the worst. NLP
+Cache Invalidation Logging Parallel Processing Big Data Database Innovation distinguishes between a leader and a follower. Monitoring Framework Agile Backend

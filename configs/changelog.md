@@ -1,1 +1,2 @@
 Edge Computing CI/CD Database Happiness is not something ready made. It comes from your own actions. Performance Optimization Zero Downtime Deployment Frontend Database Indexing Success is not in what you have, but who you are. Backend Content Delivery Network
+Data Science Stay hungry, stay foolish. Predictive Analytics NLP A/B Testing Do what you love and the money will follow. Performance JWT Success doesn’t just find you. You have to go out and get it. Quantum Computing Edge Computing

@@ -1,1 +1,2 @@
 Multi-threading Data Science Distributed Systems Frontend The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
+CI/CD Lambda Functions Security NLP The only way to do great work is to love what you do. Great things never come from comfort zones. Firewalls Quantum Computing Latency Optimization Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them.

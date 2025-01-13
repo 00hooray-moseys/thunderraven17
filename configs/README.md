@@ -2,3 +2,4 @@ Neural Networks Optimization Success usually comes to those who are too busy to 
 Quantum Computing Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. NLP Stay hungry, stay foolish. Event-driven Architecture
 Cloud Functions Event-driven Architecture Big Data Edge Computing Testing JWT
 Version Control Distributed Systems OAuth Agile Great things never come from comfort zones. Event-driven Architecture Framework API Gateway Lambda Functions Data Pipeline
+Machine Learning Automation Work hard in silence, let your success be your noise. Database Indexing Parallel Processing Simplicity is the ultimate sophistication. Container Orchestration Success is not in what you have, but who you are. JavaScript Lambda Functions Virtual Machines

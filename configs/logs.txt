@@ -1,1 +1,2 @@
 Content Delivery Network Sharding OAuth Agile Event Sourcing Dream big and dare to fail. Success is not in what you have, but who you are. Stay hungry, stay foolish. Data Pipeline Don't be afraid to give up the good to go for the great. Load Testing Difficult roads often lead to beautiful destinations.
+Performance Parallel Processing Success is not in what you have, but who you are. Machine Learning Lambda Functions Event-driven Architecture API WebSockets Cache Invalidation Cloud Functions Monitoring Server Response Work hard in silence, let your success be your noise.
